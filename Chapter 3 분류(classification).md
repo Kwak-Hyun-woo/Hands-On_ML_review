@@ -1,4 +1,4 @@
-# Chatper 3 분류
+# Chapter 3 분류
 
 ## 성능 측정
 

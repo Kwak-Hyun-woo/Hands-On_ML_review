@@ -1,4 +1,4 @@
-# Chatper 5 SVM(Support Vector Machine)
+# Chapter 6 결정 트리
 
 ## 선형 SVM 분류
 

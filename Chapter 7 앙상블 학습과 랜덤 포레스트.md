@@ -1,4 +1,4 @@
-# Chatper 5 SVM(Support Vector Machine)
+# Chapter 7 앙상블 학습과 랜덤 포레스트
 
 ## 선형 SVM 분류
 
